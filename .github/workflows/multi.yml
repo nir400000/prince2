@@ -20,7 +20,7 @@ jobs:
         run: echo "npm ci" 
         
       - name: Build
-        run: echo "npm run build:
+        run: echo "npm run build:"
 
   test:
     runs-on: ubuntu-latest
